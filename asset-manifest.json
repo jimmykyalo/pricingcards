@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/pricingcards/static/css/main.9d8b418e.css",
+    "main.js": "/pricingcards/static/js/main.c226b966.js",
+    "static/js/787.411386e9.chunk.js": "/pricingcards/static/js/787.411386e9.chunk.js",
+    "index.html": "/pricingcards/index.html",
+    "main.9d8b418e.css.map": "/pricingcards/static/css/main.9d8b418e.css.map",
+    "main.c226b966.js.map": "/pricingcards/static/js/main.c226b966.js.map",
+    "787.411386e9.chunk.js.map": "/pricingcards/static/js/787.411386e9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9d8b418e.css",
+    "static/js/main.c226b966.js"
+  ]
+}
